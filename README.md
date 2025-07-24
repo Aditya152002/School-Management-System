@@ -44,6 +44,3 @@ This project is a **command-line based Student Management System** built using P
    - Press 5 to exit program
 
 ---
-
-### 🔷 **Portfolio Value:**
-This project demonstrates your ability to build a **full CRUD application with file storage, OOP design, and robust error handling** – a fundamental milestone for backend development and coding interviews.
